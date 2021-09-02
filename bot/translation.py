@@ -6,7 +6,13 @@ class Translation(object):
     
     START_TEXT = """👋Hey {},
 
-I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
+ഈ ബോട്ട് നിർമിച്ചിരിക്കുന്നത് തികച്ചും MOVIEMARKET ഗ്രൂപ്പിലേക്ക് വേണ്ടിട്ടാണ്.
+
+എന്നെ നിങ്ങൾക്ക് വേറെ ഒരിടത്തും ഉപയോഗിക്കാൻ ആകില്ല..
+
+
+
+I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
 
 
     HELP_TEXT = """
