@@ -12,7 +12,8 @@ class Translation(object):
 
 
 
-I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...TEAM MOVIEMARKET"""
+I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
+TEAM MOVIEMARKET"""
 
 
     HELP_TEXT = """
@@ -25,9 +26,14 @@ I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
 """
     
     ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>VIJAY DEVARAKONDA ☺️</b>
+    
 
 <b>☞ GROUP : MOVIE MARKET
-<b> ADMIN പറയുന്നില്ല 😂
+
+
+<b>☞ ADMIN : ഞാൻ പറയുന്നില്ല 😂
+
+
 എന്താ ഇനി എന്തേലും വേണോ🤫.....പോയ്‌ GROUPIL കയറി MOVIE 
 ചോദിക്ക് bro/sis ☺️🥰
 
