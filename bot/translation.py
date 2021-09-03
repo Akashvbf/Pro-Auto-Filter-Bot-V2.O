@@ -24,7 +24,7 @@ I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
 </a></b>
 """
     
-    ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>Pro Auto Filter Bot V2.O</b>
+    ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>VIJAY DEVARAKONDA ☺️</b>
 
 <b>☞ 🗣️Language</b> : Python
 
@@ -33,4 +33,4 @@ I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
 <b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [MM](t.me/MOVIEMARKET_DISCUSSION_GROUP)"""
