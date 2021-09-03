@@ -12,7 +12,7 @@ class Translation(object):
 
 
 
-I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
+I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...TEAM MOVIEMARKET"""
 
 
     HELP_TEXT = """
@@ -26,11 +26,13 @@ I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
     
     ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>VIJAY DEVARAKONDA ☺️</b>
 
-<b>☞ 🗣️Language</b> : Python
+<b>☞ GROUP : MOVIE MARKET
+<b> ADMIN പറയുന്നില്ല 😂
+എന്താ ഇനി എന്തേലും വേണോ🤫.....പോയ്‌ GROUPIL കയറി MOVIE 
+ചോദിക്ക് bro/sis ☺️🥰
 
-<b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
+
 """
 
     TEAM = """Team [MM](t.me/MOVIEMARKET_DISCUSSION_GROUP)"""
