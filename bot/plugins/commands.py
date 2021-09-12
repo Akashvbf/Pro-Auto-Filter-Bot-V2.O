@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'SECOND CHANNEL', url=https://t.me/Movie_market_new_releases"
+                                    'SECOND CHANNEL', url='https://t.me/Movie_market_new_releases"
                                 )
                         ]
                     ]
